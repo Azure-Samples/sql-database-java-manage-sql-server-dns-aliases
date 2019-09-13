@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Sql
-- platforms: java
+description: "Getting Started with Sql - Manage Sql Server Dns Aliases - in Java"
+urlFragment: sql-database-java-manage-sql-server-dns-aliases
 ---
 
 # Getting Started with Sql - Manage Sql Server Dns Aliases - in Java #
